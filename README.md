@@ -28,4 +28,4 @@ Trixtool aims to be the one-stop shop for all the Minecraft server info you coul
 -Make scraped server data saveable as a JSON file
 
 # With Thanks To:
-MCServerStatus for their amazing API (api.mcsrvstat.us)
+MCServerStatus for their amazing API (https://api.mcsrvstat.us)
