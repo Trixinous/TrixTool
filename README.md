@@ -22,3 +22,10 @@ Trixtool aims to be the one-stop shop for all the Minecraft server info you coul
 -Scrape player skins and let users download them
 
 -render Xaero's Minimap/Worldmap for the are you've explored in the server
+
+-Have some limited support for Bedrock Edition Servers
+
+-Make scraped server data saveable as a JSON file
+
+# With Thanks To:
+MCServerStatus for their amazing API (api.mcsrvstat.us)
