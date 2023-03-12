@@ -1,5 +1,5 @@
 # TrixTool 0.0.1a
-Trixtool aims to be the one-stop shop for all the Minecraft server info you could ever need. TrixTool currently can scrape: 
+Trixtool aims to be the one-stop shop for all the Minecraft server info you could ever need. TrixTool can currently scrape (provided the server is online, of course): 
 
 -Hostname 
 
