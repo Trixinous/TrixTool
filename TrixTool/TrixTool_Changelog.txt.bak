@@ -1,0 +1,23 @@
+TrixTool Changelog
+
+*0.0.0a*
+-TrixTool created
+-can scrape hostname, port, players, UUIDs, number of players, max number of players
+
+*0.0.0a_01
+-can now render the server icon from a base64 string
+
+*0.0.1a*
+-Fixed a bug that would cause a crash if the server was not online
+		╚ subsequently fixed a bug that would cause all servers to appear offline
+
+-Fixed a bug that would cause a crash if no players were online at the time of data scrape
+
+
+*0.0.2a*
+-custom hostnames and IPs are now able to be input into the IP field
+		╚ subsequently fixed a bug that would cause a crash if nothing was input, also fixing another bug causing a crash if MCServerStatus did not return any data
+-The default IP is trixinous.duckdns.org (my very epic server, woo!)
+-Updated the look and position of the player count, adding more space for larger numbers of players on larger servers (like Hypixel, for example)
+-Fixed a bug that would cause a crash if there was no server icon. 
+
