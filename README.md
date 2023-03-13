@@ -1,4 +1,4 @@
-# TrixTool 0.0.1a
+# TrixTool 0.0.2a
 Trixtool aims to be the one-stop shop for all the Minecraft server info you could ever need. TrixTool can currently scrape (provided the server is online, of course): 
 
 -Hostname 
@@ -15,7 +15,7 @@ Trixtool aims to be the one-stop shop for all the Minecraft server info you coul
 
 -Player UUIDS
 
-
+See the changelog for the most recent changes (https://github.com/Trixinous/TrixTool/blob/master/TrixTool/TrixTool_Changelog.txt)
 
 # TrixTool aims to do in the future:
 
